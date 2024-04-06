@@ -23,3 +23,4 @@ C:\MyApps\BindingAssignment\BindingAssignment\obj\Debug\net8.0\refint\BindingAss
 C:\MyApps\BindingAssignment\BindingAssignment\obj\Debug\net8.0\BindingAssignment.pdb
 C:\MyApps\BindingAssignment\BindingAssignment\obj\Debug\net8.0\BindingAssignment.genruntimeconfig.cache
 C:\MyApps\BindingAssignment\BindingAssignment\obj\Debug\net8.0\ref\BindingAssignment.dll
+C:\MyApps\BindingAssignment\BindingAssignment\obj\Debug\net8.0\BindingAssignment.sourcelink.json
